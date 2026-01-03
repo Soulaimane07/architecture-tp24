@@ -1,0 +1,3 @@
+com\example\appareil\repository\AppareilRepository.class
+com\example\appareil\entity\Categorie.class
+com\example\appareil\entity\Appareil.class
